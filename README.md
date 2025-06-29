@@ -1,10 +1,13 @@
-# SKG-Discord-Stats
+# Information
 This script displays **Stop killing Games** statistics directly within Discord. The displayed stats update automatically every 30 seconds as long as the script remains active.
 
 # Setup
 ### Requirments
+#### Software
 - [Python](https://www.python.org/downloads/) <br>
-- `pip install requests`
+- [Discord Webhook](https://support.discord.com/hc/en-us/articles/228383668-Intro-to-Webhooks)
+#### Python Module
+`pip install requests`
 ### Configuration
 Add Discord Webhook URL within "" under: <br>
 `WEBHOOK = ""`
