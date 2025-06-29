@@ -3,7 +3,8 @@ This script displays **Stop killing Games** statistics directly within Discord. 
 
 # Setup
 ### Requirments
-`pip install requests`
+- [Python](https://www.python.org/downloads/) <br>
+- `pip install requests`
 ### Configuration
 Add Discord Webhook URL within "" under: <br>
 `WEBHOOK = ""`
