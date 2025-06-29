@@ -8,7 +8,7 @@ This script displays **Stop killing Games** statistics directly within Discord. 
 Add Discord Webhook URL within "" under: <br>
 `WEBHOOK = ""`
 ### Usage
-`python run SKG.py`
+`python SKG.py`
 
 # Screenshot
 ![Screenshot](https://raw.githubusercontent.com/welshman/SKG-Discord-Stats/refs/heads/main/Screenshots/Screenshot%202025-06-29%20023751.png)
